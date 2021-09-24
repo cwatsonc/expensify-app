@@ -1,0 +1,16 @@
+.option {
+    background:$light-blue;
+    color:$off-white;
+    display:flex;
+    justify-content: space-between;
+    padding: $s-size;
+    margin:0;
+}
+
+.option__text {
+    color:white;
+    font-weight: 500;
+    font-size: 2rem;
+    margin:0;
+
+}
